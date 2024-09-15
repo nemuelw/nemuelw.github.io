@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: nemzyxt # change to your github username
+  username: nemuelw # change to your github username
 
 twitter:
   username: nemuelwainaina # change to your twitter username
@@ -40,7 +40,7 @@ social:
     # The first element serves as the copyright owner's link
     - https://www.linkedin.com/in/nemuel-wainaina
     - https://twitter.com/nemuelwainaina # change to your twitter homepage
-    - https://github.com/nemzyxt # change to your github homepage
+    - https://github.com/nemuelw # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
 
